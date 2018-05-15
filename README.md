@@ -13,6 +13,7 @@ Emoji | 📚
 👻👻| 👻👻👻👻👻👻
 🌊 | knopfy & proud
 🐢 | testing
+💀 | not tested
 🐾 | set up
 🙈 | no clue
 🍻 | hope
