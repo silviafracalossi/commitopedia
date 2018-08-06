@@ -26,3 +26,4 @@ Emoji | Code | 📚
 🤪 | `not found yet` | crazy thing
 🛫 | `not found yet` | fra's high
 🍓 | `:strawberry:` | Geri's stuff
+🍭 | `:lollipop:` | lollipop's masterpiece
